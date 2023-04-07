@@ -11,6 +11,7 @@
 		038873AC29E0A61F00FC0D96 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 038873AB29E0A61F00FC0D96 /* ContentView.swift */; };
 		038873AE29E0A62000FC0D96 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 038873AD29E0A62000FC0D96 /* Assets.xcassets */; };
 		038873B129E0A62000FC0D96 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 038873B029E0A62000FC0D96 /* Preview Assets.xcassets */; };
+		038873B929E0A67300FC0D96 /* SomethingNew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 038873B829E0A67300FC0D96 /* SomethingNew.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		038873AB29E0A61F00FC0D96 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		038873AD29E0A62000FC0D96 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		038873B029E0A62000FC0D96 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		038873B829E0A67300FC0D96 /* SomethingNew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SomethingNew.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +37,7 @@
 		0388739D29E0A61F00FC0D96 = {
 			isa = PBXGroup;
 			children = (
+				038873B829E0A67300FC0D96 /* SomethingNew.swift */,
 				038873A829E0A61F00FC0D96 /* CountdownTimer */,
 				038873A729E0A61F00FC0D96 /* Products */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				038873AC29E0A61F00FC0D96 /* ContentView.swift in Sources */,
 				038873AA29E0A61F00FC0D96 /* CountdownTimerApp.swift in Sources */,
+				038873B929E0A67300FC0D96 /* SomethingNew.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
